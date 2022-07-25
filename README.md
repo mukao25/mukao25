@@ -9,7 +9,7 @@
      <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
      <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-     <img align="right" alt="" height="150" style="border-radius:50px;" src="blob:https://discord.com/d8fc65ef-3540-4db1-addf-4d0e6f849261">
+     <img align="right" alt="" height="150" style="border-radius:50px;" src="https://discord.com/d8fc65ef-3540-4db1-addf-4d0e6f849261">
 </div>
   
   ##
